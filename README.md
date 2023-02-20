@@ -1,5 +1,5 @@
 # Cryptocurrencies
-Module 19 Learning - Unsupervised Machine Learning
+Module 19 Challenge - Unsupervised Machine Learning
 
 ## Resources
 Operating Platform: Windows 11 Pro - Build 22621 [Buy Windows 11 Pro](https://www.microsoft.com/en-us/d/windows-11-pro/dg7gmgf0d8h4?rtc=1)</br>
